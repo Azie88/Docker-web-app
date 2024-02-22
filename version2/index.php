@@ -6,7 +6,7 @@
     <title>Login Form</title>
 </head>
 <body>
-    <h1>Login Form</h1>
+    <h1>Login Form 1</h1>
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST">
         <label for="username">Username:</label><br>
         <input type="text" id="username" name="username" required><br><br>
