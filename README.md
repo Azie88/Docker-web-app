@@ -1,8 +1,8 @@
-# PHP Login Form
+# PHP Login Form :paper
 
 This project contains a simple PHP login form that allows users to enter their username and password. The form is built using PHP and styled with CSS. It can be easily deployed using Docker.
 
-`version1` folder contains a html login form with css styling
+`version1` folder contains a html login form
 
 `version2` folder contains the PHP form
 
@@ -26,3 +26,16 @@ This project contains a simple PHP login form that allows users to enter their u
 3. Run the Docker Container: Once the image is built, you can run a container from it. Use the following command to map port 800 on your host to port 80 on the container: `docker run -p 800:80 php-login-form`
 
 4. Access the Application: Open your web browser and go to http://localhost:800 to view your PHP login form.
+
+## Author
+
+Andrew Obando
+
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
+
+---
+
+Feel free to star ⭐ this repository if you find it helpful!
