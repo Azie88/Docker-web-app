@@ -6,18 +6,6 @@ This project contains a simple PHP login form that allows users to enter their u
 
 `version2` folder contains the PHP form
 
-.
-|-- version1
-|   |-- Dockerfile
-|   |-- index.html
-|   |-- styles.css
-|
-|-- version2
-|   |-- Dockerfile
-|   |-- index.php
-|   |-- styles.css
-|-- README.md
-
 ## Features
 
 - User-friendly interface for login.
