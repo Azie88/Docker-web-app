@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+
+/* LogIn Form Container */
+form {
+    padding: 0;
+    border-radius: 40px;
+    background-color: transparent;
+    margin: 20px auto;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Title Styling */
+.form-title {
+    font-family: Inter, sans-serif;
+    font-size: 24px; 
+    font-weight: 600; 
+    color: #0A083B; 
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+
+/* Form Labels*/
+label {
+    color: #0A083B;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Form Input Fields */
+input {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px 25px;
+    margin: 10px 0;
+    border: 2px solid #E8E7ED;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(10, 8, 59, 0.50);
+}
+
+input:focus {
+    outline: 0;
+}
+
+/* Submit Button */
+.form-button {
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 16px 34px;
+    color: #fff;
+    background-color: #1950D1;
+    border-radius: 33px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.form-button:hover {
+    background-color: #175CFF;
+}
