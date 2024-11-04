@@ -35,7 +35,7 @@ docker run -p 800:80 php-login-form
 
 4. Access the Application: Open your web browser and go to http://localhost:800 to view your PHP login form.
 
-- You can run PHP scripts on your local machine. Find out more in this [tutorial] (https://www.geeksforgeeks.org/how-to-run-php-programs/)
+- You can run PHP scripts on your local machine. Find out more in this [tutorial](https://www.geeksforgeeks.org/how-to-run-php-programs/)
 
 ## Contributing
 
