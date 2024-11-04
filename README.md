@@ -35,6 +35,10 @@ docker run -p 800:80 php-login-form
 
 4. Access the Application: Open your web browser and go to http://localhost:800 to view your PHP login form.
 
+## Contributing
+
+If you'd like to contribute to this project, please feel free to fork the repository and submit a pull request.
+
 ## Author
 
 Andrew Obando
